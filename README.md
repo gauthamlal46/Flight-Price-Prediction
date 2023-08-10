@@ -4,5 +4,4 @@ Flight ticket prices can be something hard to guess, today we might see a price,
 
 
 Task 1:-Prepare a complete data analysis report on the given data.
-
 Task 2:-Create a predictive model which will help the customers to predict future flight prices and plan their journey accordingly.
